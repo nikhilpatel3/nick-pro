@@ -1,4 +1,11 @@
-# Script run on termux
+# TOOL ABOUT
+```
+~ This Tool is about of random Facebook cloning.
+~ You can cloning with B_api method and also nbr cloning. 
+~ You can cloning friendlist, public ID and also follower ID Cloning. 
+```
+
+# RUN ON TERMUX 
 ```
 ~ apt update -y
 ~ apt upgrade
@@ -10,4 +17,16 @@
 ~ pip2 install requests
 ~ pip2 install mechanize
 ~ python2 install.lxml
+```
+
+# TESTED ON
+```
+~ Termux
+```
+
+# NOTE
+```
+[+]-- Now you need internet connection to continue further process...
+[+]-- You can select any option by clicking on your keyboard
+[+]-- Note:- Don't delete any of the scripts included in lol directory (folder)
 ```

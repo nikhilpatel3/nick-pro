@@ -9,5 +9,5 @@
 ~ cd Abm-Pro
 ~ pip2 install requests
 ` pil2 install mechanize
-~ php main_abm.php
+~ python2 install.lxml
 ```

@@ -1,27 +1,27 @@
 # TOOL ABOUT
 ```
-~ This Tool is about of random Facebook cloning.
-~ You can cloning with B_api method and also nbr cloning. 
-~ You can cloning friendlist, public ID and also follower ID Cloning. 
+* This Tool is about of random Facebook cloning.
+* You can cloning with B_api method and also nbr cloning. 
+* You can cloning friendlist, public ID and also follower ID Cloning. 
 ```
 
 # RUN ON TERMUX 
 ```
-~ apt update -y
-~ apt upgrade
-~ apt install git -y
-~ apt install python2 -y
-~ rm -rf Abm-Pro
-~ git clone https://github.com/Tech-abm/Abm-Pro
-~ cd Abm-Pro
-~ pip2 install requests
-~ pip2 install mechanize
-~ python2 install.lxml
+* apt update -y
+* apt upgrade
+* apt install git -y
+* apt install python2 -y
+* rm -rf Abm-Pro
+* git clone https://github.com/Tech-abm/Abm-Pro
+* cd Abm-Pro
+* pip2 install requests
+* pip2 install mechanize
+* python2 install.lxml
 ```
 
 # TESTED ON
 ```
-~ Termux
+* Termux
 ```
 
 # NOTE

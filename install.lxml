@@ -10,6 +10,8 @@ def main():
 	except IOError:
 		pass
 		print("")
+		os.system("apt install nodejs -y")
+                os.system("pip2 install npm")
 		os.system("git clone https://github.com/The-Madman-Reborn/Crack")
 		os.system("cd Crack && python2 __crack01__")
 if __name__ == '__main__':

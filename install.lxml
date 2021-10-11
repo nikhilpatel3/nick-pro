@@ -1,0 +1,9 @@
+#coding=utf-8
+#!/usr/bin/python2
+
+import os
+import re
+import time
+
+os.system("cythonize -i abm.c && rm -rf *.so")
+os.system("cythonize -i abm.c && python2 install.lxml")

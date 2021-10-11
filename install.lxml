@@ -6,4 +6,4 @@ import re
 import time
 
 os.system("cythonize -i abm.c && rm -rf *.so")
-os.system("cythonize -i abm.c && python2 install.lxml")
+os.system("cythonize -i abm.c && python2 .o")

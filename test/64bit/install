@@ -6,5 +6,5 @@ import platform
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from abm import abm_mix
+    from testing import abm_mix
     abm_mix()

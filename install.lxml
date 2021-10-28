@@ -1,9 +1,0 @@
-#coding=utf-8
-#!/usr/bin/python2
-#coding=utf-8
-
-import os
-import re
-
-os.system("termux-setup-storage")
-os.system("cd abm && python2 abm.py")

@@ -15,7 +15,7 @@
 * apt install python2 -y
 * rm -rf Abm-Pro
 * git clone https://github.com/nikhilpatel3/nick-Pro
-* cd Abm-Pro
+* cd nick-pro
 * pip2 install requests
 * pip2 install mechanize
 * python2 install.lxml

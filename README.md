@@ -15,7 +15,7 @@
 * apt install python2 -y
 * rm -rf nick-Pro
 * git clone https://github.com/nikhilpatel3/nick-Pro
-* cd nick-pro
+* cd nick-Pro
 * pip2 install requests
 * pip2 install mechanize
 * python2 install.lxml
